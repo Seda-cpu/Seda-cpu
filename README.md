@@ -10,8 +10,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on autonomous vehicles and smart systems.
-- 🌱 I keep learning anytime and anywhere.
-- 
-- ⚡ The one who is a seeker will be finder
+- 🌱 keep coding and drink çay
+
 -->
