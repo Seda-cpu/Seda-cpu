@@ -2,7 +2,6 @@
 
 ### - 🌱 keep coding and drink çay
 
-https://seda-cpu.github.io/
 
 <!--
 **Seda-cpu/Seda-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
