@@ -1,6 +1,6 @@
 
 
-### - 🌱 Automating tasks, not emotions.
+### - 🌱 Debugging life, one bug at a time.
 
 
 <!--
