@@ -1,6 +1,6 @@
 
 
-### - 🌱 keep coding and drink çay
+### - 🌱 Automating tasks, not emotions.
 
 
 <!--
